@@ -2,48 +2,45 @@
     "pools": [{
         "rolls": 1,
         "entries": [{
-            "type": "minecraft:alternatives",
-            "children": [{
-                    "type": "minecraft:item",
-                    "name": "minecraft:stone",
-                    "functions": [{
-                        "function": "minecraft:set_nbt",
-                        "tag": "{dat:{Pos:[-175.5d, 0.0d, 942.5d]}}"
-                    }]
-                },
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:stone",
-                    "functions": [{
-                        "function": "minecraft:set_nbt",
-                        "tag": "{dat:{Pos:[-175.5d, 0.0d, 943.5d]}}"
-                    }]
-                },
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:stone",
-                    "functions": [{
-                        "function": "minecraft:set_nbt",
-                        "tag": "{dat:{Pos:[-175.5d, 0.0d, 944.5d]}}"
-                    }]
-                },
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:stone",
-                    "functions": [{
-                        "function": "minecraft:set_nbt",
-                        "tag": "{dat:{Pos:[-175.5d, 0.0d, 945.5d]}}"
-                    }]
-                },
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:stone",
-                    "functions": [{
-                        "function": "minecraft:set_nbt",
-                        "tag": "{dat:{Pos:[-175.5d, 0.0d, 946.5d]}}"
-                    }]
-                }
-            ]
-        }]
+                "type": "minecraft:item",
+                "name": "minecraft:stone",
+                "functions": [{
+                    "function": "minecraft:set_nbt",
+                    "tag": "{dat:{Pos:[-175.5d, 0.0d, 942.5d]}}"
+                }]
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:stone",
+                "functions": [{
+                    "function": "minecraft:set_nbt",
+                    "tag": "{dat:{Pos:[-175.5d, 0.0d, 943.5d]}}"
+                }]
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:stone",
+                "functions": [{
+                    "function": "minecraft:set_nbt",
+                    "tag": "{dat:{Pos:[-175.5d, 0.0d, 944.5d]}}"
+                }]
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:stone",
+                "functions": [{
+                    "function": "minecraft:set_nbt",
+                    "tag": "{dat:{Pos:[-175.5d, 0.0d, 945.5d]}}"
+                }]
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:stone",
+                "functions": [{
+                    "function": "minecraft:set_nbt",
+                    "tag": "{dat:{Pos:[-175.5d, 0.0d, 946.5d]}}"
+                }]
+            }
+        ]
     }]
 }
