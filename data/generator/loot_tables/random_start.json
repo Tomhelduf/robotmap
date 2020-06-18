@@ -8,7 +8,7 @@
                     "name": "minecraft:stone",
                     "functions": [{
                         "function": "minecraft:set_nbt",
-                        "tag": "{dat:{Pos:[-175.0d, 0.0d, 942.0d]}}"
+                        "tag": "{dat:{Pos:[-175.5d, 0.0d, 942.5d]}}"
                     }]
                 },
                 {
@@ -16,7 +16,7 @@
                     "name": "minecraft:stone",
                     "functions": [{
                         "function": "minecraft:set_nbt",
-                        "tag": "{dat:{Pos:[-175.0d, 0.0d, 943.0d]}}"
+                        "tag": "{dat:{Pos:[-175.5d, 0.0d, 943.5d]}}"
                     }]
                 },
                 {
@@ -24,7 +24,7 @@
                     "name": "minecraft:stone",
                     "functions": [{
                         "function": "minecraft:set_nbt",
-                        "tag": "{dat:{Pos:[-175.0d, 0.0d, 944.0d]}}"
+                        "tag": "{dat:{Pos:[-175.5d, 0.0d, 944.5d]}}"
                     }]
                 },
                 {
@@ -32,7 +32,7 @@
                     "name": "minecraft:stone",
                     "functions": [{
                         "function": "minecraft:set_nbt",
-                        "tag": "{dat:{Pos:[-175.0d, 0.0d, 945.0d]}}"
+                        "tag": "{dat:{Pos:[-175.5d, 0.0d, 945.5d]}}"
                     }]
                 },
                 {
@@ -40,7 +40,7 @@
                     "name": "minecraft:stone",
                     "functions": [{
                         "function": "minecraft:set_nbt",
-                        "tag": "{dat:{Pos:[-175.0d, 0.0d, 946.0d]}}"
+                        "tag": "{dat:{Pos:[-175.5d, 0.0d, 946.5d]}}"
                     }]
                 }
             ]
