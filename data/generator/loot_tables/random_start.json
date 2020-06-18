@@ -1,0 +1,44 @@
+{
+    "pools": [{
+        "rolls": 1,
+        "entries": [{
+            "type": "minecraft:alternatives",
+            "children": [{
+                    "type": "minecraft:item",
+                    "functions": [{
+                        "function": "minecraft:set_nbt",
+                        "tag": "{dat:{Pos:[-175.0d, 0.0d, 942.0d]}}"
+                    }]
+                },
+                {
+                    "type": "minecraft:item",
+                    "functions": [{
+                        "function": "minecraft:set_nbt",
+                        "tag": "{dat:{Pos:[-175.0d, 0.0d, 943.0d]}}"
+                    }]
+                },
+                {
+                    "type": "minecraft:item",
+                    "functions": [{
+                        "function": "minecraft:set_nbt",
+                        "tag": "{dat:{Pos:[-175.0d, 0.0d, 944.0d]}}"
+                    }]
+                },
+                {
+                    "type": "minecraft:item",
+                    "functions": [{
+                        "function": "minecraft:set_nbt",
+                        "tag": "{dat:{Pos:[-175.0d, 0.0d, 945.0d]}}"
+                    }]
+                },
+                {
+                    "type": "minecraft:item",
+                    "functions": [{
+                        "function": "minecraft:set_nbt",
+                        "tag": "{dat:{Pos:[-175.0d, 0.0d, 946.0d]}}"
+                    }]
+                }
+            ]
+        }]
+    }]
+}
