@@ -1,6 +1,6 @@
 
 scoreboard players remove layers_left generator 1
-scoreboard players add #path_delta generator 5
+scoreboard players remove #path_delta generator 5
 
 execute at @e[type=minecraft:area_effect_cloud,tag=cell,tag=walkable] run fill ~-2 ~7 ~-2 ~2 ~9 ~2 white_terracotta
 tag @e[type=minecraft:area_effect_cloud,tag=cell] add walkable
