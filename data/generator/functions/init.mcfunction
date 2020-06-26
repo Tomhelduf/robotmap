@@ -6,4 +6,7 @@ scoreboard objectives add path_low dummy
 scoreboard objectives add path_id dummy
 scoreboard objectives add path_parent_id dummy
 
+scoreboard players set x_size generator 9
+scoreboard players set y_size generator 9
+
 scoreboard players set path_limit generator 23
