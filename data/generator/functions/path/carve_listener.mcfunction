@@ -1,5 +1,6 @@
 
 scoreboard players operation #path_limit generator = path_limit generator
+scoreboard players operation #path_limit generator -= #path_delta generator
 scoreboard players operation #path_limit generator < ppt generator
 
 scoreboard players operation #path_left generator -= #path_limit generator
