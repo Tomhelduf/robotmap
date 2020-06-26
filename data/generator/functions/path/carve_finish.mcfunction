@@ -1,7 +1,7 @@
 
 scoreboard players remove layers_left generator 1
 
-execute at @e[type=minecraft:area_effect_cloud,tag=cell,tag=walkable] run setblock ~ ~7 ~ bedrock
+execute at @e[type=minecraft:area_effect_cloud,tag=cell,tag=walkable] run fill ~-2 ~7 ~-2 ~2 ~9 ~2 white_terracotta
 tag @e[type=minecraft:area_effect_cloud,tag=cell] add walkable
 execute as @e[type=minecraft:area_effect_cloud,tag=cell] at @s run tp @s ~ ~8 ~
 
