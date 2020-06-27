@@ -1,0 +1,55 @@
+{
+    "condition": "minecraft:alternative",
+    "terms": [
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 0,
+        "offsetZ": 0,
+        "predicate": {
+          "block": {
+            "block": "dark_oak_planks"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 5,
+        "offsetZ": 0,
+        "predicate": {
+          "block": {
+            "block": "dark_oak_planks"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 0,
+        "offsetZ": 5,
+        "predicate": {
+          "block": {
+            "block": "dark_oak_planks"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": -5,
+        "offsetZ": 0,
+        "predicate": {
+          "block": {
+            "block": "dark_oak_planks"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 0,
+        "offsetZ": -5,
+        "predicate": {
+          "block": {
+            "block": "dark_oak_planks"
+          }
+        }
+      }
+    ]
+  }
